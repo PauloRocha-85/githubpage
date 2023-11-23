@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: rgb(32, 34, 34);
+    background-color: DarkSlateGray;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -21,7 +21,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid green;
+    border: 5px solid Olive;
 }
 
 .center {
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-    color: green;
+    color: olive;
 }
 
 footer {
@@ -51,5 +51,10 @@ footer p {
 }
 
 nav a:hover {
-    color: green;
+    color: olive;
+}
+
+main img {
+    width: 150px;
+    height: 150px;
 }
