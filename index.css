@@ -28,8 +28,29 @@ header img {
     text-align: center;
 }
 
+section{
+    margin-left: 80px;
+    display: inline-block;
+}
+
+.app img{
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 40px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid Olive;
+}
+
 h1 {
+    text-align: center;
     color: olive;
+}
+
+h2 {
+    text-align: center;
 }
 
 footer {
@@ -55,6 +76,7 @@ nav a:hover {
 }
 
 main img {
+    align-items: center;
     width: 150px;
     height: 150px;
 }
